@@ -1,11 +1,23 @@
+aid: dfdl
 name: DFDL
-description: DFDL is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  Data Format Description Language (DFDL) is an open standard for describing
+  data formats used in binary and text files and data streams. DFDL is used to
+  describe the format of existing data so that it can be parsed or unparsed
+  (generated) using a DFDL processor, enabling integration with legacy and
+  modern data systems.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- DFDL
-created: '2025'
-modified: '2025'
+  - DFDL
+  - Data Formats
+  - Standards
+url: https://daffodil.apache.org/
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
