@@ -9,7 +9,7 @@ description: >-
   also published as ISO/IEC 23415:2004. Apache Daffodil is the reference
   open-source implementation, with the latest release being version 4.1.0.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Apache Daffodil
   - Binary Data
