@@ -28,6 +28,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/dfdl-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/dfdl-domain-security.yml
   - type: Website
     url: https://daffodil.apache.org/
   - type: Specification
