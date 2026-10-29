@@ -1,4 +1,4 @@
-# DFDL (dfdl)
+# dfdl
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,34 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Data Format Description Language (DFDL) is an open standard for describing data formats used in binary and text files and data streams. DFDL is used to describe the format of existing data so that it can be parsed or unparsed (generated) using a DFDL processor, enabling integration with legacy and modern data systems. DFDL was developed by the Open Grid Forum (OGF) and is also published as ISO/IEC 23415:2004. Apache Daffodil is the reference open-source implementation, with the latest release being version 4.1.0.
+## dfdl on APIs.io
 
-**URL:** [Visit APIs.json URL](https://daffodil.apache.org/)
+Everything profiled for dfdl is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dfdl/](https://apis.io/providers/dfdl/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/dfdl/](https://apis.io/providers/dfdl/).
 
-## Tags:
+## How this profile is made
 
-- Apache Daffodil, Binary Data, Data Description, Data Formats, DFDL, ISO Standard, Open Grid Forum, Parsing, Schema, Standards, XML Schema
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Common Properties
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for dfdl: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- [Website](https://daffodil.apache.org/)
-- [Specification](https://www.ogf.org/ogf/doku.php/standards/dfdl/dfdl)
-- [ISO Standard](https://www.iso.org/standard/87444.html)
-- [Documentation](https://daffodil.apache.org/docs/)
+## Open an issue
 
-## Timestamps
-
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dfdl/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
